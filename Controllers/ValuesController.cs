@@ -2,8 +2,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HelloApi.Controllers
-{
-    
+{    
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
